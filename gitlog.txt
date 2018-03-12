@@ -1,0 +1,17 @@
+commit e072db7e71445eddb1a53e7a8befb4ddaf958235
+Author: Tema Novikov <nai90@ya.ru>
+Date:   Mon Mar 12 08:28:27 2018 +0300
+
+    added gitignore
+
+commit e358a9114ac8ae2fdf76c7ee06adb4b1166679c3
+Author: Tema Novikov <nai90@ya.ru>
+Date:   Sun Mar 11 20:14:42 2018 +0300
+
+    add two files
+
+commit dfab07882ed798399df8c10befdda49bec795d8a
+Author: Tema Novikov <nai90@ya.ru>
+Date:   Sat Mar 10 17:45:58 2018 +0300
+
+    added two files
